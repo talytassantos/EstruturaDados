@@ -1,7 +1,8 @@
 INDEX VERSION 1.131+F:\Talyta\Documentos\GIT\FATEC\Estrutura de Dados\.metadata\.plugins\org.eclipse.jdt.core
 4286163855.index
-4227335625.index
-3526406459.index
-3286159122.index
-1659982963.index
 2146176639.index
+2304943481.index
+3286159122.index
+702990342.index
+275510467.index
+2968492476.index
